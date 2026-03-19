@@ -31,7 +31,6 @@ bzip2
 file
 tree
 jq
-yq
 ripgrep
 less
 vim
